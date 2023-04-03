@@ -1,0 +1,39 @@
+.seller-page {
+    text-align: center;
+    display: flex;
+    text-align: center;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+
+.seller-table {
+    width: 300px;
+    border: 1px solid #FFFFFF;
+    font-family: courier;
+}
+
+.seller-table-row {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    border: 1px solid #FFFFFF;
+}
+
+.seller-table-data {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.add-button {background-color: transparent;
+    color: #86bc26;
+    border: none;
+    font-family: Courier;
+}
+
+.add-button:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

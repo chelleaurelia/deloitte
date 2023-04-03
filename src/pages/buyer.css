@@ -1,0 +1,28 @@
+.buyer-page {
+    text-align: center;
+    display: flex;
+    text-align: center;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+
+.buyer-table {
+    width: 500px;
+    border: 1px solid #FFFFFF;
+    font-family: courier;
+}
+
+.buyer-table-row {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    border: 1px solid #FFFFFF;
+}
+
+.buyer-table-data {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}

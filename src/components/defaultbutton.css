@@ -1,0 +1,12 @@
+.default-button {
+    background-color: #86bc26;
+    border: none;
+    font-family: Courier New;
+    border-radius: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.default-button:hover {
+    cursor: pointer;
+}

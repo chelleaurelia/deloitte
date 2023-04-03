@@ -1,0 +1,60 @@
+.loginpage, .loginform {
+    display: flex;
+    flex-direction: column;
+    width: 175px;
+}
+
+.loginpage {
+    padding: 5rem;
+    border: 1px solid;
+    border-color: #86bc26;
+    border-radius: 10px;
+}
+
+.loginlabel {
+    font-family: Courier;
+    font-size: 14px;
+    text-align: left;
+    color: white;
+    padding: 0.25rem 0;
+}
+
+.input-username, .input-password {
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    margin: 0.5rem 0;
+}
+
+.buttonlogin {
+    border: none;
+    background-color: #86bc26;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Courier;
+    cursor: pointer;
+}
+
+.menu {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    margin-top: 50px;
+    padding-left: 0;
+}
+
+.menulist {
+    float: left;
+}
+
+.menubutton {
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-family: Courier;
+}
+
+.menubutton:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

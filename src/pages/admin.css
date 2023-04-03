@@ -1,0 +1,58 @@
+.admin-page {
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+
+.admin-table {
+    width: 300px;
+    border: 1px solid #FFFFFF;
+    font-family: courier;
+}
+
+.admin-table-row {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    border: 1px solid #FFFFFF;
+}
+
+.admin-table-data {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.add-button {background-color: transparent;
+    color: #86bc26;
+    border: none;
+    font-family: Courier;
+}
+
+.add-button:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.new-user-form {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.new-user-label {
+    font-family: courier;
+    text-align: left;
+}
+
+.new-user-input {
+    border-radius: 5px;
+}
+
+.td-new-user {
+    text-align: left;
+}
